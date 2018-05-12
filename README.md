@@ -1,8 +1,10 @@
 # SVM
 Support vector machines' implementation from scratch
+
 Libraries:
--numpy
--matplotlib
+
+- numpy
+- matplotlib
 
 Author: Sean Alec
 
